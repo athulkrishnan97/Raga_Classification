@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/athul/Desktop/DeepAudio/musicDNN.tflearn"
+all_model_checkpoint_paths: "/home/athul/Desktop/DeepAudio/musicDNN.tflearn"
